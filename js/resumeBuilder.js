@@ -11,7 +11,7 @@ var bio = {
     "skills": [
         "destruction, joga, Bear Grylls space survival course, ninja, punctuality"
     ],
-    "bioPic": "http://icons.veryicon.com/ico/Movie%20%26%20TV/Bride%20of%20Macabre/Alien.ico"
+    "bioPic": "frontend-nanodegree-resume/images/Alien projects 2.png"
 };
 
 
@@ -65,8 +65,8 @@ var projects = {
         "dates": "3033 - present",
         "description": "Playing the main character",
         "images": [
-            "http://static.wixstatic.com/media/ccb448_0d13aa5121954038a5f8a0f223ce198a~mv2_d_4500_4500_s_4_2.jpg_256",
-            "https://pbs.twimg.com/profile_images/595977746385371137/jnqXepY0.png"
+            "frontend-nanodegree-resume/images/Alien projects 1.jpg",
+            "frontend-nanodegree-resume/images/Alien projects 2.png"
         ]
     }]
 };
