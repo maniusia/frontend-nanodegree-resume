@@ -11,7 +11,7 @@ var bio = {
     "skills": [
         "destruction, joga, Bear Grylls space survival course, ninja, punctuality"
     ],
-    "bioPic": "http://icons.veryicon.com/ico/Movie%20%26%20TV/Bride%20of%20Macabre/Alien.ico"
+    "biopic": "http://icons.veryicon.com/ico/Movie%20%26%20TV/Bride%20of%20Macabre/Alien.ico"
 };
 
 
@@ -99,8 +99,6 @@ bio.display = function() {
     }
 };
 
-bio.display();
-
 // EDUCATION Display
 
 education.display = function() {
@@ -130,8 +128,6 @@ education.display = function() {
     }
 };
 
-education.display();
-
 //WORK Display
 
 work.display = function() {
@@ -150,8 +146,6 @@ work.display = function() {
     }
 };
 
-work.display();
-
 //PROJECTS display
 
 projects.display = function() {
@@ -169,8 +163,10 @@ projects.display = function() {
     }
 };
 
+bio.display();
+education.display();
+work.display();
 projects.display();
-
 
 //Collecting clicks
 
